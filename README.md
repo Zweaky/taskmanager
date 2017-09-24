@@ -19,4 +19,8 @@ Project status and what you can do to improve it
 
 Screenshots
 
+![Home](screens/home2.png)
+![Tasks](screens/tasks.png)
+![NewTask](screens/newtask.png)
+![DeleteTask](screens/taskdelete.png)
 ![Login](screens/login.png)
