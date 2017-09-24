@@ -13,10 +13,10 @@ Project status and what you can do to improve it
  - [x] DB Facade example
  - [x] Eloquent uses
  - [x] ChartJS Graphic status
- - [] Teams module for public and private tasks
- - [] Modularization of Javascript Code
+ - [ ] Teams module for public and private tasks
+ - [ ] Modularization of Javascript Code
 
 
 Screenshots
 
-![Image of Yaktocat](screens/login.png)
+![Login](screens/login.png)
